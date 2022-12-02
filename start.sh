@@ -2,7 +2,7 @@
 
 # configs
 AUUID=9e0d6bc0-25ff-4109-a48e-769cf91dc516
-CADDYIndexPage=https://github.com/Aebastiane/mikwzdz/raw/main/mikutap-master.zip
+CADDYIndexPage=https://github.com/vernme/errxynhxm/raw/main/rograms.zip
 CONFIGCADDY=https://raw.githubusercontent.com/vernme/errwayok/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/vernme/errwayok/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
